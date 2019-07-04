@@ -18,7 +18,7 @@ namespace ConsoleApp1
             {
               
                 string line = "";
-                using (StreamReader sr = new StreamReader(@"C:\Users\pc\Desktop\logs\myapp.log"))
+                using (StreamReader sr = new StreamReader("myapp.log"))
                 {
                     Console.ForegroundColor = ConsoleColor.Cyan;
                     Console.WriteLine();
