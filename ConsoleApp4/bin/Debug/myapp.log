@@ -1,0 +1,102 @@
+2019-07-04 11:27:26,125 [1] INFO ConsoleApp4.Program - 
+The User Create An Account
+2019-07-04 11:27:29,308 [1] DEBUG ConsoleApp4.Program - 
+The User withdraw An Account
+2019-07-04 11:27:32,177 [1] DEBUG ConsoleApp4.Program - 
+The User Deposit An Account
+2019-07-04 11:27:33,546 [1] DEBUG ConsoleApp4.Program - 
+The User viewed the balance of  Account
+2019-07-04 11:27:34,087 [1] DEBUG ConsoleApp4.Program - 
+The User viewbankdetails An Account
+2019-07-04 11:27:35,390 [1] DEBUG ConsoleApp4.Program - 
+The User view list of users 
+2019-07-04 11:27:36,190 [1] DEBUG ConsoleApp4.Program - 
+The User exit the system 
+2019-07-04 11:28:41,044 [1] DEBUG ConsoleApp4.Program - The User Close An Account
+
+2019-07-04 11:32:32,853 [1] INFO ConsoleApp4.Program - The User  Create An Account %bank.users[0].Name
+
+2019-07-04 11:36:18,425 [1] INFO ConsoleApp4.Program - The User  Create An Account 
+
+2019-07-04 11:36:25,206 [1] DEBUG ConsoleApp4.Program - The User withdraw An Account
+
+2019-07-04 11:36:27,727 [1] DEBUG ConsoleApp4.Program - The User viewed the balance of  Account
+
+2019-07-04 11:36:29,431 [1] DEBUG ConsoleApp4.Program - The User viewbankdetails An Account
+
+2019-07-04 11:36:30,739 [1] DEBUG ConsoleApp4.Program - The User view list of users 
+
+2019-07-04 11:36:32,002 [1] DEBUG ConsoleApp4.Program - The User exit the system 
+
+2019-07-04 11:50:14,359 [1] INFO ConsoleApp4.Program - The User  Create An Account 
+
+2019-07-04 11:50:31,304 [1] INFO ConsoleApp4.Program - The User  Create An Account 
+
+2019-07-04 11:50:34,126 [1] DEBUG ConsoleApp4.Program - The User viewed list of users 
+
+2019-07-04 11:51:13,504 [1] DEBUG ConsoleApp4.Program - The User viewed list of users 
+
+2019-07-04 11:51:42,312 [1] INFO ConsoleApp4.Program - The User  Create An Account 
+
+2019-07-04 11:51:45,518 [1] DEBUG ConsoleApp4.Program - The User viewed list of users 
+
+2019-07-04 11:56:38,851 [1] INFO ConsoleApp4.Program - The User  Create An Account 
+
+2019-07-04 11:56:56,743 [1] INFO ConsoleApp4.Program - The User  Create An Account 
+
+2019-07-04 11:57:18,142 [1] INFO ConsoleApp4.Program - The User  Create An Account 
+
+2019-07-04 11:57:22,079 [1] DEBUG ConsoleApp4.Program - The User viewed list of users 
+
+2019-07-04 12:01:05,388 [1] INFO ConsoleApp4.Program - The User  Create An Account 
+
+2019-07-04 12:01:36,258 [1] INFO ConsoleApp4.Program - The User  Create An Account 
+
+2019-07-04 12:01:54,410 [1] INFO ConsoleApp4.Program - The User  Create An Account 
+
+2019-07-04 12:02:18,247 [1] INFO ConsoleApp4.Program - The User  Create An Account 
+
+2019-07-04 12:02:54,577 [1] INFO ConsoleApp4.Program - The User  Create An Account 
+
+2019-07-04 12:03:13,152 [1] INFO ConsoleApp4.Program - The User  Create An Account 
+
+2019-07-04 12:03:42,430 [1] INFO ConsoleApp4.Program - The User  Create An Account 
+
+2019-07-04 12:04:21,411 [1] INFO ConsoleApp4.Program - The User  Create An Account 
+
+2019-07-04 12:04:41,008 [1] INFO ConsoleApp4.Program - The User  Create An Account 
+
+2019-07-04 12:06:53,532 [1] INFO ConsoleApp4.Program - The User  Create An Account 
+
+2019-07-04 12:07:13,198 [1] INFO ConsoleApp4.Program - The User  Create An Account 
+
+2019-07-04 12:07:36,255 [1] INFO ConsoleApp4.Program - The User  Create An Account 
+
+2019-07-04 12:08:36,317 [1] INFO ConsoleApp4.Program - The User  Create An Account 
+
+2019-07-04 12:08:55,553 [1] INFO ConsoleApp4.Program - The User  Create An Account 
+
+2019-07-04 12:12:27,246 [1] INFO ConsoleApp4.Program - The User  Create An Account 
+
+2019-07-04 12:12:55,169 [1] INFO ConsoleApp4.Program - The User  Create An Account 
+
+2019-07-04 12:13:11,847 [1] DEBUG ConsoleApp4.Program - The User viewed list of users 
+
+2019-07-04 14:17:00,636 [1] INFO ConsoleApp4.Program - The User  Create An Account 
+
+2019-07-04 14:17:18,951 [1] INFO ConsoleApp4.Program - The User  Create An Account 
+
+2019-07-04 14:17:26,282 [1] DEBUG ConsoleApp4.Program - The User viewed the balance of  Account
+
+2019-07-04 14:17:49,907 [1] DEBUG ConsoleApp4.Program - The User viewed bank details 
+
+2019-07-04 14:18:05,343 [1] DEBUG ConsoleApp4.Program - The User viewed list of users 
+
+2019-07-04 14:18:09,262 [1] DEBUG ConsoleApp4.Program - The User exit the system 
+
+2019-07-04 14:25:02,443 [1] INFO ConsoleApp4.Program - Main started7/4/2019 12:00:00 AM
+
+2019-07-04 14:25:02,485 [1] INFO ConsoleApp4.Program - Main started Format: 07/04/2019 00:00:00
+
+2019-07-04 14:25:06,173 [1] DEBUG ConsoleApp4.Program - The User exit the system 
+
